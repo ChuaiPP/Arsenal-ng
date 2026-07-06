@@ -383,11 +383,8 @@ The easiest way to contribute is by adding new cheat sheet YAML files:
 
 See [Cheat File Format](#-cheat-file-format) for details.
 
----
 
-<p align="center">
-  Made with ❤️ and <a href="https://github.com/charmbracelet/bubbletea">Bubble Tea</a>
-</p>
+
 ### **项目声明**
 
 本项目为 **halilkirazkaya/arsenal-ng** 的二次开发衍生版本，原项目官方仓库：[halilkirazkaya/arsenal-ng](https://link.wtturl.cn/?target=https%3A%2F%2Fgithub.com%2Fhalilkirazkaya%2Farsenal-ng&scene=im&aid=497858&lang=zh)
@@ -407,3 +404,9 @@ See [Cheat File Format](#-cheat-file-format) for details.
 ### **免责说明**
 
 本项目仅用于网络安全技术研究与合法授权的渗透测试场景，使用者请确保自身操作符合当地法律法规，因不当使用造成的一切后果与原作者及本项目维护者无关。
+
+---
+
+<p align="center">
+  Made with ❤️ and <a href="https://github.com/charmbracelet/bubbletea">Bubble Tea</a>
+</p>
