@@ -388,7 +388,7 @@ See [Cheat File Format](#-cheat-file-format) for details.
 <p align="center">
   Made with ❤️ and <a href="https://github.com/charmbracelet/bubbletea">Bubble Tea</a>
 </p>
-### **衍生项目声明**
+### **项目声明**
 
 本项目为 **halilkirazkaya/arsenal-ng** 的二次开发衍生版本，原项目官方仓库：[halilkirazkaya/arsenal-ng](https://link.wtturl.cn/?target=https%3A%2F%2Fgithub.com%2Fhalilkirazkaya%2Farsenal-ng&scene=im&aid=497858&lang=zh)
 
