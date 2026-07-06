@@ -389,7 +389,7 @@ See [Cheat File Format](#-cheat-file-format) for details.
 
 本项目为 **halilkirazkaya/arsenal-ng** 的二次开发衍生版本，原项目官方仓库：[halilkirazkaya/arsenal-ng](https://link.wtturl.cn/?target=https%3A%2F%2Fgithub.com%2Fhalilkirazkaya%2Farsenal-ng&scene=im&aid=497858&lang=zh)
 
-原项目版权所有 © 2025 halilkirazkaya，遵循 MIT 开源许可证。本衍生项目完整保留原项目的版权声明与许可文本，整体同样以 MIT 许可证开源发布。
+原项目遵循 MIT 开源许可证。本衍生项目完整保留原项目的版权声明与许可文本，整体同样以 MIT 许可证开源发布。
 
 ### **二次开发主要改动**
 
